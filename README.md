@@ -2,7 +2,7 @@
 
 This project contains ZSH scripts for
 [glide](https://github.com/Masterminds/glide). They are designed with
-[Oh My Zsh]https://github.com/robbyrussell/oh-my-zsh() in mind, but will work
+[Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) in mind, but will work
 with any ZSH.
 
 ## Installation/Usage
