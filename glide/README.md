@@ -10,8 +10,8 @@ with any ZSH.
 If you are using Oh My Zsh:
 
 ```
-$ cd ~/.oh-my-zsh/custome/plugins
-$ git clone https://github.com/technosophos/glide-zsh
+$ cd ~/.oh-my-zsh/custom/plugins
+$ git clone https://github.com/technosophos/glide-zsh glide
 ```
 
 The activate the plugin in your `~/.zshrc` file:
